@@ -1774,11 +1774,15 @@ body {
 .cid-rj1YaCbBrK .dropdown-item:hover {
   color: #149dcc !important;
 }
-.cid-rj20huMgKR {
-  background-image: url("../../../assets/images/mbr-3-1920x1440.jpg");
+.cid-rjZld9CTbq {
+  background-image: url("../../../assets/images/foyer-plants-1-1914x1440.jpg");
 }
-.cid-rj20huMgKR H1 {
-  color: #ffffff;
+.cid-rjZld9CTbq .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-rjZld9CTbq .mbr-section-title {
+  text-align: center;
 }
 .cid-rj2cIfu1Zv {
   padding-top: 90px;
